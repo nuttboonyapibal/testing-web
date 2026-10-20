@@ -1,0 +1,37 @@
+﻿ASSET GUIDE — FORM & FIELD
+
+ภาพประกอบทั้งหมดสร้างด้วย AI สำหรับตัวอย่างเว็บไซต์ ไม่ใช่ภาพธุรกิจหรือสินค้าที่มีการยืนยันจริง
+All photographs are AI-generated conceptual assets for the fictional website.
+
+Assets/hero.png
+ใช้เป็นภาพหลักหน้าแรก หรือภาพบรรยากาศหน้าเกี่ยวกับเรา / Homepage hero or about-page atmosphere
+Alt TH: ภาพ AI มุมทำงานโปร่ง มีโต๊ะไม้และเก้าอี้สีดำ
+Alt EN: AI-generated airy workspace with an oak desk and black chair
+
+Assets/brand-mark.svg
+สัญลักษณ์ย่อของแบรนด์สมมติ ใช้ในส่วนหัวเว็บ / Fictional brand monogram for the header
+
+Assets/location-schematic.svg
+แผนผังประกอบการออกแบบ ไม่ใช่แผนที่นำทาง / Decorative schematic, not a navigation map
+
+รูปสินค้า / กิจกรรม — Item images
+
+Products/01-AERO-Chair/aero-chair.png
+Alt TH: เก้าอี้ตาข่ายสีดำ มีพนักศีรษะและล้อเลื่อน ภาพ AI
+Alt EN: Black mesh office chair with headrest and castors, AI image
+รายละเอียดอยู่ใน TXT ชื่อเดียวกับภาพ ในโฟลเดอร์เดียวกัน / Matching TXT in the same folder.
+
+Products/02-RISE-Desk/rise-desk.png
+Alt TH: โต๊ะท็อปไม้โอ๊ก ขาปรับระดับสีดำ ภาพ AI
+Alt EN: Oak-top standing desk with black adjustable legs, AI image
+รายละเอียดอยู่ใน TXT ชื่อเดียวกับภาพ ในโฟลเดอร์เดียวกัน / Matching TXT in the same folder.
+
+Products/03-FOCUS-Lamp/focus-lamp.png
+Alt TH: โคมไฟโต๊ะสีดำ แขนปรับได้และฐานกลม ภาพ AI
+Alt EN: Black adjustable desk lamp with round base, AI image
+รายละเอียดอยู่ใน TXT ชื่อเดียวกับภาพ ในโฟลเดอร์เดียวกัน / Matching TXT in the same folder.
+
+ใช้รูปที่ให้มาโดยตรงได้ ไม่ต้องดาวน์โหลดภาพเพิ่ม
+PNG คือภาพพร้อมใช้; SVG คือภาพเวกเตอร์สำหรับแบรนด์และแผนผัง
+ภาพบรรยากาศใช้สื่ออารมณ์ ส่วนรายละเอียดเช่นขนาดและราคาให้อ้างอิงจากไฟล์ TXT
+Generated with Imagegen on 20 October 2026. Brand monograms and schematics are original SVG graphics.

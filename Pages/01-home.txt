@@ -1,0 +1,72 @@
+﻿ภาษาไทย
+====================================
+
+หน้าแรก
+
+ชื่อหน้า: FORM & FIELD — เฟอร์นิเจอร์สำหรับพื้นที่ทำงาน | เว็บไซต์ตัวอย่าง
+คำอธิบายหน้า: เว็บไซต์ตัวอย่างบริษัทเฟอร์นิเจอร์สำนักงาน พร้อมแคตตาล็อกและรายการขอราคา
+
+WORKSPACE, REIMAGINED
+พื้นที่ทำงาน
+ที่เป็นคุณ
+จัดมุมทำงานให้เรียบง่าย สบาย และเข้ากับชีวิต เลือกเฟอร์นิเจอร์ที่ใช่ แล้วลองจัดรายการสำหรับพื้นที่ของคุณ
+
+ปุ่มหลัก: เลือกเฟอร์นิเจอร์
+ปุ่มรอง: รู้จัก FORM & FIELD
+
+จุดเด่นของเรา
+
+เลือกง่าย
+ข้อมูลสินค้าเป็นขั้นตอน เปรียบเทียบได้ก่อนตัดสินใจ
+
+เข้ากับพื้นที่
+เริ่มจากขนาดและลักษณะงาน แล้วค่อยเลือกองค์ประกอบ
+
+คุยต่อได้ทันที
+รวบรวมรายการและจำนวน ส่งต่อเป็นข้อความได้
+
+สินค้าแนะนำ
+- เก้าอี้ AERO — ความคล่องตัว สำหรับทุกมุมทำงาน
+- โต๊ะปรับระดับ RISE — เปลี่ยนจังหวะงาน ในพื้นที่เดิม
+- โคมไฟ FOCUS — แสงที่พอดี สำหรับงานตรงหน้า
+
+ภาพหลัก: Assets/hero.png
+Alt text: ภาพ AI มุมทำงานโปร่ง มีโต๊ะไม้และเก้าอี้สีดำ
+คำบรรยายใต้ภาพ: THE EVERYDAY OFFICE / พื้นที่เล็ก ความเป็นไปได้ใหญ่
+
+
+ENGLISH
+====================================
+
+HOME
+
+Page title: FORM & FIELD — Thoughtful workspaces | Demo website
+Page description: A fictional workspace company with a product catalogue and quote builder.
+
+WORKSPACE, REIMAGINED
+Space to do
+your best work.
+Thoughtful furniture for a calmer working day. Explore the essentials and build a workspace that feels like you.
+
+Primary CTA: Explore the collection
+Secondary CTA: Meet FORM & FIELD
+
+What makes us different
+
+Considered selection
+Clear details that help you make an informed choice.
+
+Made for your space
+Start with dimensions and daily tasks, then choose the pieces.
+
+Ready for a conversation
+Create a quantity-based shortlist you can take into a conversation.
+
+Featured products
+- AERO Chair — Room to move. Support for your day.
+- RISE Desk — A change of pace, in the same space.
+- FOCUS Lamp — A little light. A little more focus.
+
+Hero image: Assets/hero.png
+Alt text: AI-generated airy workspace with an oak desk and black chair
+Image caption: THE EVERYDAY OFFICE / Small space. More possibility.

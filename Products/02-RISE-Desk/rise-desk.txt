@@ -1,0 +1,58 @@
+﻿ภาษาไทย
+====================================
+
+ชื่อสินค้า: โต๊ะปรับระดับ RISE
+รหัส: FF-D01
+หมวดหมู่: โต๊ะ
+ราคา: 12,900 บาท
+หมายเหตุราคา: ราคาเพื่อการเรียนเท่านั้น • ถือว่ารวม VAT ในโจทย์นี้ • ไม่รวมค่าจัดส่งและติดตั้ง
+
+คำโปรยสั้น
+เปลี่ยนจังหวะงาน ในพื้นที่เดิม
+
+รายละเอียด
+โต๊ะปรับระดับไฟฟ้าท็อปลายไม้โอ๊ก พร้อมปุ่มควบคุมด้านหน้า เหมาะกับพื้นที่ที่ต้องการสลับท่าทางการทำงาน
+
+ข้อมูลจำเพาะ
+- หน้าโต๊ะ 120 × 60 ซม.
+- ช่วงความสูงตัวอย่าง 72–118 ซม.
+- สี: โอ๊ก / ขาดำ • รับน้ำหนักตัวอย่าง 60 กก.
+
+ข้อความปุ่มหลัก: เพิ่มในรายการขอราคา
+ข้อความปุ่มรายละเอียด: ดูรายละเอียด
+
+รูปประกอบ: rise-desk.png
+คำบรรยายภาพ (Alt text): โต๊ะท็อปไม้โอ๊ก ขาปรับระดับสีดำ ภาพ AI
+
+หมายเหตุ: ขนาดและสมรรถนะเป็นข้อมูลโจทย์ ไม่ได้วัดจากภาพ
+ใช้เป็นข้อมูลสมมติสำหรับฝึกทำเว็บไซต์เท่านั้น ภาพสร้างด้วย AI
+
+
+ENGLISH
+====================================
+
+Product: RISE Desk
+Code: FF-D01
+Category: Desks
+Price: 12,900 THB
+Pricing note: Classroom prices only • VAT included for this exercise • Delivery and installation excluded
+
+Short description
+A change of pace, in the same space.
+
+Description
+An electric height-adjustable desk with an oak-effect top and front controls, for workspaces that make room for a change of posture.
+
+Specifications
+- Desktop 120 × 60 cm
+- Illustrative height range 72–118 cm
+- Colour: oak / black legs • Illustrative load 60 kg
+
+Primary button: Add to quote
+Details button: View details
+
+Image file: rise-desk.png
+Image alt text: Oak-top standing desk with black adjustable legs, AI image
+
+Note: Dimensions and performance are exercise data, not measurements from the image
+Fictional content for website-building practice. AI-generated image.

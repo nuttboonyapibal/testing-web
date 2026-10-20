@@ -1,0 +1,44 @@
+﻿ภาษาไทย
+====================================
+
+รายการขอราคา
+
+ลองจัดมุมทำงานของคุณ
+รายการนี้เก็บเฉพาะในเบราว์เซอร์ ไม่ถูกส่งให้ธุรกิจ
+
+ก่อนเลือกรายการ: เลือกสินค้าที่สนใจ เพื่อเริ่มทำรายการขอราคา
+ป้ายยอดรวม: ยอดรวมประมาณการ
+ปุ่มนำออก: นำออก
+ปุ่มล้างทั้งหมด: ล้างรายการ
+ปุ่มดาวน์โหลด: ดาวน์โหลดสรุป .txt
+
+การทำงานที่ต้องการ
+เลือกสินค้า กำหนดจำนวนเต็ม 1–99 ชิ้นต่อรายการ คำนวณยอดรวม และดาวน์โหลดรายการเป็นข้อความ
+
+ตัวอย่างตรวจยอด: เก้าอี้ 6,900 × 2 + โต๊ะ 12,900 × 1 + โคมไฟ 1,590 × 1 = 28,290 บาท
+
+ราคาเพื่อการเรียนเท่านั้น • ถือว่ารวม VAT ในโจทย์นี้ • ไม่รวมค่าจัดส่งและติดตั้ง
+เว็บไซต์สมมติสำหรับการเรียน • ไม่มีการซื้อหรือจองจริง
+
+
+ENGLISH
+====================================
+
+Your quote
+
+Make it your workspace.
+This list is saved only in your browser. It is not sent to the business.
+
+Empty state: Choose a product to begin your sample quote.
+Total label: Estimated total
+Remove button: Remove
+Clear button: Clear list
+Download button: Download summary .txt
+
+Desired behaviour
+Choose products, set quantities from 1–99 per item, calculate the total and download a plain-text quote.
+
+Example: chair 6,900 × 2 + desk 12,900 × 1 + lamp 1,590 × 1 = 28,290 THB.
+
+Classroom prices only • VAT included for this exercise • Delivery and installation excluded
+A fictional classroom project • No real orders or bookings

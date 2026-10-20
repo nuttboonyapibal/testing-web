@@ -1,0 +1,58 @@
+﻿ภาษาไทย
+====================================
+
+ชื่อสินค้า: เก้าอี้ AERO
+รหัส: FF-C01
+หมวดหมู่: เก้าอี้
+ราคา: 6,900 บาท
+หมายเหตุราคา: ราคาเพื่อการเรียนเท่านั้น • ถือว่ารวม VAT ในโจทย์นี้ • ไม่รวมค่าจัดส่งและติดตั้ง
+
+คำโปรยสั้น
+ความคล่องตัว สำหรับทุกมุมทำงาน
+
+รายละเอียด
+เก้าอี้สำนักงานตาข่ายสีชาร์โคล ปรับความสูงที่นั่งและที่วางแขนได้ เหมาะกับมุมทำงานในบ้านและสำนักงานทั่วไป
+
+ข้อมูลจำเพาะ
+- ขนาดโดยประมาณ 65 × 65 × 115–125 ซม.
+- วัสดุ: ตาข่าย โครงไนลอน ฐานล้อเลื่อน
+- สี: ชาร์โคล • น้ำหนักสินค้า 14 กก.
+
+ข้อความปุ่มหลัก: เพิ่มในรายการขอราคา
+ข้อความปุ่มรายละเอียด: ดูรายละเอียด
+
+รูปประกอบ: aero-chair.png
+คำบรรยายภาพ (Alt text): เก้าอี้ตาข่ายสีดำ มีพนักศีรษะและล้อเลื่อน ภาพ AI
+
+หมายเหตุ: สเปกเป็นข้อมูลสมมติ ไม่ใช่คำแนะนำทางการแพทย์
+ใช้เป็นข้อมูลสมมติสำหรับฝึกทำเว็บไซต์เท่านั้น ภาพสร้างด้วย AI
+
+
+ENGLISH
+====================================
+
+Product: AERO Chair
+Code: FF-C01
+Category: Seating
+Price: 6,900 THB
+Pricing note: Classroom prices only • VAT included for this exercise • Delivery and installation excluded
+
+Short description
+Room to move. Support for your day.
+
+Description
+A charcoal mesh office chair with adjustable seat height and armrests, designed for home workspaces and everyday offices.
+
+Specifications
+- Approx. 65 × 65 × 115–125 cm
+- Materials: mesh, nylon frame, castor base
+- Colour: charcoal • Item weight 14 kg
+
+Primary button: Add to quote
+Details button: View details
+
+Image file: aero-chair.png
+Image alt text: Black mesh office chair with headrest and castors, AI image
+
+Note: Fictional specifications; not medical advice
+Fictional content for website-building practice. AI-generated image.

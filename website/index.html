@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="th">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>FORM &amp; FIELD — เฟอร์นิเจอร์สำหรับพื้นที่ทำงาน | เว็บไซต์ตัวอย่าง</title>
+  <meta name="description" content="เว็บไซต์ตัวอย่างบริษัทเฟอร์นิเจอร์สำนักงาน พร้อมแคตตาล็อกและรายการขอราคา">
+  <meta name="theme-color" content="#FFF6EC">
+  <link rel="icon" href="img/favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Prompt:wght@300;400;500;600&display=swap">
+  <link rel="stylesheet" href="css/style.css">
+  <script>(function(){var d=document.documentElement;try{var l=localStorage.getItem('ff-lang'),t=localStorage.getItem('ff-theme');if(t==='dark'||t==='light')d.setAttribute('data-theme',t);if(l==='en'){d.lang='en';d.classList.add('i18n-pending');setTimeout(function(){d.classList.remove('i18n-pending')},1500);}}catch(e){}})();</script>
+  <script src="js/data.js" defer></script>
+  <script src="js/app.js" defer></script>
+</head>
+<body id="top" data-page="home">
+  <a class="skip-link" href="#main" data-i18n="skip">ข้ามไปเนื้อหา</a>
+  <div id="site-notice"></div>
+  <header id="site-header" class="site-header"></header>
+
+  <main id="main" tabindex="-1">
+    <section class="hero">
+      <div class="container hero__grid">
+        <div>
+          <span class="tag tag--label" data-i18n="home.eyebrow">WORKSPACE, REIMAGINED</span>
+          <h1 class="h1" data-i18n="home.h1">พื้นที่ทำงาน<br><span class="hl">ที่เป็นคุณ</span></h1>
+          <p class="lead" data-i18n="home.lead">จัดมุมทำงานให้เรียบง่าย สบาย และเข้ากับชีวิต เลือกเฟอร์นิเจอร์ที่ใช่ แล้วลองจัดรายการสำหรับพื้นที่ของคุณ</p>
+          <div class="hero__ctas">
+            <a class="btn btn--primary" href="products.html"><span data-i18n="home.cta1">เลือกเฟอร์นิเจอร์</span><svg class="icon" aria-hidden="true"><use href="#i-arrow-right"></use></svg></a>
+            <a class="btn btn--secondary" href="about.html"><span data-i18n="home.cta2">รู้จัก FORM &amp; FIELD</span></a>
+          </div>
+        </div>
+        <figure class="hero__media">
+          <div class="stair-deco" aria-hidden="true"><span></span><span></span><span></span></div>
+          <img src="img/hero.jpg" width="1536" height="1024" fetchpriority="high"
+               alt="ภาพ AI มุมทำงานโปร่ง มีโต๊ะไม้และเก้าอี้สีดำ" data-i18n-attr="alt:home.alt">
+          <figcaption>
+            <span class="caption-label" data-i18n="home.capLabel">THE EVERYDAY OFFICE</span>
+            <span data-i18n="home.capText">พื้นที่เล็ก ความเป็นไปได้ใหญ่</span>
+          </figcaption>
+        </figure>
+      </div>
+    </section>
+
+    <section class="section section--alt" aria-labelledby="values-title">
+      <div class="container">
+        <div class="section-head">
+          <h2 class="h2" id="values-title" data-i18n="home.values">จุดเด่นของเรา</h2>
+        </div>
+        <ol class="steps steps--rise">
+          <li class="step">
+            <div class="step-bars" aria-hidden="true"><span></span><span></span><span></span></div>
+            <p class="step__num" data-i18n="step.1">ขั้นที่ 1</p>
+            <h3 class="h3" data-i18n="values.1.t">เลือกง่าย</h3>
+            <p data-i18n="values.1.d">ข้อมูลสินค้าเป็นขั้นตอน เปรียบเทียบได้ก่อนตัดสินใจ</p>
+          </li>
+          <li class="step">
+            <div class="step-bars" aria-hidden="true"><span></span><span></span><span></span></div>
+            <p class="step__num" data-i18n="step.2">ขั้นที่ 2</p>
+            <h3 class="h3" data-i18n="values.2.t">เข้ากับพื้นที่</h3>
+            <p data-i18n="values.2.d">เริ่มจากขนาดและลักษณะงาน แล้วค่อยเลือกองค์ประกอบ</p>
+          </li>
+          <li class="step">
+            <div class="step-bars" aria-hidden="true"><span></span><span></span><span></span></div>
+            <p class="step__num" data-i18n="step.3">ขั้นที่ 3</p>
+            <h3 class="h3" data-i18n="values.3.t">คุยต่อได้ทันที</h3>
+            <p data-i18n="values.3.d">รวบรวมรายการและจำนวน ส่งต่อเป็นข้อความได้</p>
+          </li>
+        </ol>
+      </div>
+    </section>
+
+    <section class="section" aria-labelledby="featured-title">
+      <div class="container">
+        <div class="section-head">
+          <h2 class="h2" id="featured-title" data-i18n="home.featured">สินค้าแนะนำ</h2>
+          <a class="text-link" href="products.html"><span data-i18n="home.all">ดูสินค้าทั้งหมด</span><svg class="icon" aria-hidden="true"><use href="#i-arrow-right"></use></svg></a>
+        </div>
+        <div class="grid-products" id="featured"></div>
+      </div>
+    </section>
+
+    <section class="section section--tight-top" aria-labelledby="next-title">
+      <div class="container">
+        <div class="next">
+          <div class="next__body">
+            <span class="tag" data-i18n="next.tag">ก้าวต่อไป</span>
+            <h2 class="h2" id="next-title" data-i18n="home.next.title">เริ่มจากชิ้นแรกที่ตรงกับงานของคุณ</h2>
+            <p data-i18n="home.next.text">ดูขนาดและสเปกให้ชัด แล้วเพิ่มลงรายการขอราคา คุณปรับจำนวนและดาวน์โหลดสรุปได้ทุกเมื่อ</p>
+          </div>
+          <a class="btn btn--primary next__cta" href="products.html"><span data-i18n="home.next.cta">เลือกเฟอร์นิเจอร์</span><svg class="icon" aria-hidden="true"><use href="#i-arrow-right"></use></svg></a>
+          <div class="stair-deco" aria-hidden="true"><span></span><span></span><span></span></div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer id="site-footer" class="site-footer"></footer>
+</body>
+</html>

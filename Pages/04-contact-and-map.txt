@@ -1,0 +1,56 @@
+﻿ภาษาไทย
+====================================
+
+ติดต่อเรา
+
+มาคุยเรื่องพื้นที่ของคุณ
+สำนักงานใหญ่สมมติในย่านราชเทวี กรุงเทพฯ ใช้ BTS ราชเทวีเป็นจุดอ้างอิงบนแผนที่สำหรับบทเรียนเท่านั้น
+
+อีเมลตัวอย่าง: hello@formfield.example
+โทรศัพท์ตัวอย่าง: 02-XXX-XXXX
+เวลาทำการ (สมมติ): จันทร์–ศุกร์ 09:00–18:00 น.
+
+แผนที่
+จุดอ้างอิง: BTS ราชเทวี
+https://www.google.com/maps/search/?api=1&query=BTS%20Ratchathewi%20Bangkok
+Assets/location-schematic.svg
+แผนผังเพื่อฝึกออกแบบ ไม่ใช่ตำแหน่งร้านจริง แผนที่จริงต้องใช้อินเทอร์เน็ตและเชื่อมต่อ Google Maps
+
+ข้อความฟอร์มติดต่อ
+- ชื่อสำหรับการติดต่อ
+- อีเมล
+- รายละเอียดที่สนใจ
+ข้อความปุ่ม: สร้างข้อความติดต่อ (ตัวอย่าง)
+ฟอร์มฝึกใช้งานเท่านั้น ไม่มีการส่งหรือบันทึกข้อมูลส่วนตัว
+ข้อความหลังกรอกครบ: ตรวจรูปแบบข้อมูลแล้ว — นี่คือตัวอย่างข้อความ ยังไม่ได้ส่ง
+
+ข้อมูลอีเมลและโทรศัพท์เป็นตัวอย่าง ไม่ใช่ช่องทางติดต่อจริง
+
+
+ENGLISH
+====================================
+
+Contact
+
+Let’s talk about your space.
+Fictional office in Bangkok’s Ratchathewi area. BTS Ratchathewi is used only as a public map reference for this lesson.
+
+Example email: hello@formfield.example
+Example phone: 02-XXX-XXXX
+Opening hours (fictional): Monday–Friday, 09:00–18:00
+
+MAP
+Reference: BTS Ratchathewi
+https://www.google.com/maps/search/?api=1&query=BTS%20Ratchathewi%20Bangkok
+Assets/location-schematic.svg
+A schematic for design practice, not a real business location. Live maps require internet and connect to Google Maps.
+
+CONTACT FORM COPY
+- Your name
+- Email
+- Your enquiry
+Button text: Prepare enquiry (demo)
+Practice form only. Personal information is neither sent nor saved.
+After validation: Format checked — your sample enquiry has not been sent
+
+The email and phone are placeholders, not real contact channels.

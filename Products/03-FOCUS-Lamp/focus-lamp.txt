@@ -1,0 +1,58 @@
+﻿ภาษาไทย
+====================================
+
+ชื่อสินค้า: โคมไฟ FOCUS
+รหัส: FF-L01
+หมวดหมู่: โคมไฟ
+ราคา: 1,590 บาท
+หมายเหตุราคา: ราคาเพื่อการเรียนเท่านั้น • ถือว่ารวม VAT ในโจทย์นี้ • ไม่รวมค่าจัดส่งและติดตั้ง
+
+คำโปรยสั้น
+แสงที่พอดี สำหรับงานตรงหน้า
+
+รายละเอียด
+โคมไฟ LED ตั้งโต๊ะสีดำด้าน แขนปรับมุมได้ ให้แสงเฉพาะจุดสำหรับงานอ่านและงานเอกสาร
+
+ข้อมูลจำเพาะ
+- กำลังไฟตัวอย่าง 8 วัตต์
+- ปรับความสว่างตัวอย่าง 3 ระดับ
+- ฐานกลมเส้นผ่านศูนย์กลาง 16 ซม.
+
+ข้อความปุ่มหลัก: เพิ่มในรายการขอราคา
+ข้อความปุ่มรายละเอียด: ดูรายละเอียด
+
+รูปประกอบ: focus-lamp.png
+คำบรรยายภาพ (Alt text): โคมไฟโต๊ะสีดำ แขนปรับได้และฐานกลม ภาพ AI
+
+หมายเหตุ: ภาพ AI อาจไม่แสดงรายละเอียดสเปกทั้งหมด
+ใช้เป็นข้อมูลสมมติสำหรับฝึกทำเว็บไซต์เท่านั้น ภาพสร้างด้วย AI
+
+
+ENGLISH
+====================================
+
+Product: FOCUS Lamp
+Code: FF-L01
+Category: Lighting
+Price: 1,590 THB
+Pricing note: Classroom prices only • VAT included for this exercise • Delivery and installation excluded
+
+Short description
+A little light. A little more focus.
+
+Description
+A matte black LED desk lamp with an adjustable arm, providing task lighting for reading and paperwork.
+
+Specifications
+- Illustrative power 8 W
+- Illustrative brightness: 3 levels
+- Round base, 16 cm diameter
+
+Primary button: Add to quote
+Details button: View details
+
+Image file: focus-lamp.png
+Image alt text: Black adjustable desk lamp with round base, AI image
+
+Note: The AI image may not depict every specification
+Fictional content for website-building practice. AI-generated image.

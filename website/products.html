@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="th">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>สินค้า — FORM &amp; FIELD</title>
+  <meta name="description" content="สามชิ้นหลักสำหรับมุมทำงาน คัดเลือกจากประโยชน์ใช้สอยและความเรียบง่าย">
+  <meta name="theme-color" content="#FFF6EC">
+  <link rel="icon" href="img/favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Prompt:wght@300;400;500;600&display=swap">
+  <link rel="stylesheet" href="css/style.css">
+  <script>(function(){var d=document.documentElement;try{var l=localStorage.getItem('ff-lang'),t=localStorage.getItem('ff-theme');if(t==='dark'||t==='light')d.setAttribute('data-theme',t);if(l==='en'){d.lang='en';d.classList.add('i18n-pending');setTimeout(function(){d.classList.remove('i18n-pending')},1500);}}catch(e){}})();</script>
+  <script src="js/data.js" defer></script>
+  <script src="js/app.js" defer></script>
+</head>
+<body id="top" data-page="products">
+  <a class="skip-link" href="#main" data-i18n="skip">ข้ามไปเนื้อหา</a>
+  <div id="site-notice"></div>
+  <header id="site-header" class="site-header"></header>
+
+  <main id="main" tabindex="-1">
+    <section class="page-head">
+      <div class="container">
+        <h1 class="h1" data-i18n="products.h1">ชิ้นที่ใช่ <span class="hl">สำหรับทุกวัน</span></h1>
+        <p class="lead" data-i18n="products.lead">สามชิ้นหลักสำหรับมุมทำงาน คัดเลือกจากประโยชน์ใช้สอยและความเรียบง่าย</p>
+
+        <div class="toolbar">
+          <form class="search" role="search">
+            <label class="visually-hidden" for="search" data-i18n="search.label">ค้นหาสินค้า</label>
+            <svg class="icon" aria-hidden="true"><use href="#i-search"></use></svg>
+            <input class="input" id="search" type="search" autocomplete="off"
+                   placeholder="ค้นหาชื่อสินค้า วัสดุ หรือการใช้งาน" data-i18n-attr="placeholder:search.ph">
+            <button type="button" class="search__clear" id="search-clear" hidden aria-label="ล้างคำค้นหา" data-i18n-attr="aria-label:search.clear">
+              <svg class="icon" aria-hidden="true"><use href="#i-x"></use></svg>
+            </button>
+          </form>
+          <div class="chips" role="group" aria-label="หมวดหมู่" data-i18n-attr="aria-label:cat.label">
+            <button type="button" class="chip" data-cat="all" aria-pressed="true" data-i18n="cat.all">ทั้งหมด</button>
+            <button type="button" class="chip" data-cat="seating" aria-pressed="false" data-i18n="cat.seating">เก้าอี้</button>
+            <button type="button" class="chip" data-cat="desks" aria-pressed="false" data-i18n="cat.desks">โต๊ะ</button>
+            <button type="button" class="chip" data-cat="lighting" aria-pressed="false" data-i18n="cat.lighting">โคมไฟ</button>
+          </div>
+          <div class="select-wrap">
+            <label for="sort" data-i18n="sort.label">เรียงตาม</label>
+            <select class="select" id="sort">
+              <option value="rec" data-i18n="sort.rec">แนะนำ</option>
+              <option value="asc" data-i18n="sort.asc">ราคาต่ำไปสูง</option>
+              <option value="desc" data-i18n="sort.desc">ราคาสูงไปต่ำ</option>
+            </select>
+            <svg class="icon" aria-hidden="true"><use href="#i-chevron-down"></use></svg>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section section--tight-top" aria-label="รายการทั้งหมด" data-i18n-attr="aria-label:products.all">
+      <div class="container">
+        <p class="results-meta" id="result-count" role="status" aria-live="polite"></p>
+        <div class="grid-products" id="product-grid"></div>
+
+        <div class="empty" id="empty" hidden>
+          <div class="empty__icon"><svg class="icon icon--lg" aria-hidden="true"><use href="#i-search-x"></use></svg></div>
+          <p data-i18n="list.empty">ไม่พบรายการ ลองเปลี่ยนคำค้นหาหรือตัวกรอง</p>
+          <button type="button" class="btn btn--secondary" id="reset-filters"><span data-i18n="list.reset">ล้างตัวกรอง</span></button>
+        </div>
+
+        <div class="notes">
+          <p class="note"><svg class="icon" aria-hidden="true"><use href="#i-info"></use></svg><span data-i18n="note.price">ราคาเพื่อการเรียนเท่านั้น • ถือว่ารวม VAT ในโจทย์นี้ • ไม่รวมค่าจัดส่งและติดตั้ง</span></p>
+          <p class="note"><svg class="icon" aria-hidden="true"><use href="#i-info"></use></svg><span data-i18n="note.ai">ภาพประกอบสร้างด้วย AI • รายละเอียดและราคาเป็นข้อมูลสมมติ</span></p>
+        </div>
+
+        <div class="next-inline">
+          <div class="next-inline__body">
+            <div class="step-bars" aria-hidden="true"><span></span><span></span><span></span></div>
+            <div>
+              <p class="next-inline__title" data-i18n="products.nextTitle">ก้าวต่อไป: ไปปรับจำนวนในรายการขอราคา</p>
+              <p data-i18n="products.nextText">เลือกได้แล้ว? รายการขอราคาจะรวมทุกชิ้น จำนวน และยอดรวมประมาณการไว้ในที่เดียว</p>
+            </div>
+          </div>
+          <a class="btn btn--secondary" href="quote.html"><span data-i18n="products.nextCta">ดูรายการขอราคา</span></a>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer id="site-footer" class="site-footer"></footer>
+</body>
+</html>

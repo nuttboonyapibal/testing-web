@@ -1,0 +1,56 @@
+﻿ภาษาไทย
+====================================
+
+ชื่อเว็บไซต์: FORM & FIELD
+คำโปรยแบรนด์: พื้นที่ดี เริ่มที่การเลือก
+
+เมนูหลัก
+- หน้าแรก
+- สินค้า
+- เกี่ยวกับเรา
+- คำถามที่พบบ่อย
+- ติดต่อเรา
+- รายการขอราคา
+
+ปุ่มเปลี่ยนภาษา: ไทย / English
+ปุ่มเปลี่ยนโหมด: โหมดสว่าง / โหมดมืด
+
+ส่วนท้ายเว็บไซต์
+FORM & FIELD
+พื้นที่ดี เริ่มที่การเลือก
+hello@formfield.example
+เว็บไซต์สมมติสำหรับการเรียน • ไม่มีการซื้อหรือจองจริง
+
+โทนภาพและสี
+เรียบง่าย ทันสมัย โทนครีม เขียวเข้ม และไม้โอ๊ก
+#304F3B / #F8F7F2 / #E8EDE4
+สัญลักษณ์แบรนด์: Assets/brand-mark.svg
+
+
+ENGLISH
+====================================
+
+Website name: FORM & FIELD
+Brand tagline: A better way to work.
+
+Main navigation
+- Home
+- Products
+- Our story
+- Frequently asked questions
+- Contact
+- Your quote
+
+Language switch: ไทย / English
+Theme switch: Light / Dark
+
+Footer
+FORM & FIELD
+A better way to work.
+hello@formfield.example
+A fictional classroom project • No real orders or bookings
+
+Visual direction
+Clean, contemporary cream, deep green and oak.
+#304F3B / #F8F7F2 / #E8EDE4
+Brand mark: Assets/brand-mark.svg

@@ -1,0 +1,48 @@
+﻿ภาษาไทย
+====================================
+
+เกี่ยวกับเรา
+
+ออกแบบวันทำงาน
+ให้รู้สึกดีขึ้น
+FORM & FIELD เป็นบริษัทเฟอร์นิเจอร์สำนักงานสมมติ ที่ตั้งโจทย์จากชีวิตคนทำงานในเมือง เราเลือกนำเสนอสินค้าน้อยชิ้น แต่ช่วยให้ผู้ใช้เข้าใจขนาด วัสดุ และวิธีใช้งานก่อนตัดสินใจ
+ให้บริการตัวอย่างทั้งมุมทำงานที่บ้านและสำนักงานขนาดเล็ก กระบวนการเริ่มจากเลือกสินค้า รวบรวมรายการ และนำข้อมูลไปพูดคุยต่อกับทีมขาย
+
+สิ่งที่เราให้ความสำคัญ
+
+เลือกง่าย
+ข้อมูลสินค้าเป็นขั้นตอน เปรียบเทียบได้ก่อนตัดสินใจ
+
+เข้ากับพื้นที่
+เริ่มจากขนาดและลักษณะงาน แล้วค่อยเลือกองค์ประกอบ
+
+คุยต่อได้ทันที
+รวบรวมรายการและจำนวน ส่งต่อเป็นข้อความได้
+
+ปุ่มติดต่อ: ติดต่อเรา
+ภาพแนะนำ: Assets/hero.png
+
+
+ENGLISH
+====================================
+
+Our story
+
+Good work starts
+with a thoughtful space.
+FORM & FIELD is a fictional workspace company inspired by urban working life. Our small collection makes it easier to understand dimensions, materials and everyday use before choosing.
+The example service covers home workspaces and small offices: browse, build a shortlist, then use it to start a conversation with a sales team.
+
+Our values
+
+Considered selection
+Clear details that help you make an informed choice.
+
+Made for your space
+Start with dimensions and daily tasks, then choose the pieces.
+
+Ready for a conversation
+Create a quantity-based shortlist you can take into a conversation.
+
+Contact button: Contact
+Suggested image: Assets/hero.png

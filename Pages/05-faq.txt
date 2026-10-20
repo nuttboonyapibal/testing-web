@@ -1,0 +1,28 @@
+﻿ภาษาไทย
+====================================
+
+คำถามที่พบบ่อย
+
+1. ซื้อสินค้าจากเว็บนี้ได้เลยหรือไม่?
+ไม่ได้ เว็บไซต์นี้เป็นแบบฝึกหัด รายการขอราคาและยอดรวมเป็นการจำลอง ไม่มีการชำระเงินหรือคำสั่งซื้อจริง
+
+2. รายการขอราคาถูกส่งให้ใครหรือไม่?
+ไม่ถูกส่ง รายการเก็บในเบราว์เซอร์ของเครื่องนี้เท่านั้น คุณดาวน์โหลดสรุปเป็นไฟล์ข้อความได้
+
+3. ราคาและการรับประกันอ้างอิงจากไหน?
+ราคาและสเปกแต่งขึ้นสำหรับบทเรียน เงื่อนไขตัวอย่าง: สินค้า 1 ปีสำหรับการผลิต ไม่รวมการใช้งานผิดวิธี ไม่มีผลรับประกันจริง
+
+
+ENGLISH
+====================================
+
+Frequently asked questions
+
+1. Can I buy directly from this website?
+No. This is a classroom exercise. Quotes and totals are simulated; there is no payment or real order.
+
+2. Is my quote sent to anyone?
+No. It stays in this browser. You can download a plain-text summary.
+
+3. Where do prices and warranties come from?
+Prices and specifications are fictional. Example terms: one year for manufacturing defects, excluding misuse. No actual warranty applies.
